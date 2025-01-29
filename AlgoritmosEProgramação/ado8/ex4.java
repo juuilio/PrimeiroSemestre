@@ -1,4 +1,4 @@
-package ado8PI;
+package ado8;
 
 import java.util.Scanner;
 
